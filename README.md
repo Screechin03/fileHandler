@@ -9,3 +9,5 @@ work only for this type of format .xlsx file(mandatory cols-> Name, Amount, Date
 pagination property also added
 
 <img width="1328" alt="Screenshot 2025-02-02 at 12 26 08 PM" src="https://github.com/user-attachments/assets/75f77b50-b215-4d27-9794-bec0a90d6298" />
+
+*built only for a specific type of project
